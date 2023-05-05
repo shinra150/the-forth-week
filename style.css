@@ -1,8 +1,0 @@
-.container {
-    color: red;
-  width: 500px;
-  border: 1px solid black;
-  display: grid;
- grid-template-columns: 20% 70% 10%; /* 将网格分为3列，其宽度从左到右分别为20%，50%，30% */
-grid-template-rows: 15% 85%; /* 将网格分为2行，其高度从上到下分别为15%，85% */
-}
